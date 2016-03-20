@@ -1,0 +1,34 @@
+{
+  "name": "c-starter-kit",
+  "title": "Starter Kit",
+  "version": "1.0.0",
+  "author": "Chaggai Thal",
+  "email": "chaggai.tal@gmail.com",
+  "homepage": "https://github.com/chaggai",
+  "description": "A starter kit for new websites using Gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "autoprefixer",
+    "browser-sync",
+    "gulp",
+    "gulp-header",
+    "gulp-postcss",
+    "gulp-rename",
+    "gulp-sass",
+    "lost"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.3.3",
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-header": "^1.7.1",
+    "gulp-postcss": "^6.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0",
+    "lost": "^6.7.2"
+  }
+}
